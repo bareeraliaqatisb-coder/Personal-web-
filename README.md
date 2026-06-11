@@ -247,7 +247,7 @@ footer{
 
     <div class="card">
         <h3>GitHub Profile</h3>
-        <p>bareeraliaqat-coder</p>
+        <p>bareeraliaqatisb-coder</p>
     </div>
 
     <div class="card">
